@@ -8,6 +8,7 @@ export const siteConfig = {
   },
   routes: {
     blog: "/blog",
+    root: "/",
   },
 };
 
